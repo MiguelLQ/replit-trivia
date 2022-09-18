@@ -4,7 +4,7 @@ print ("\033[33mBienvenido(a) a mi trivia\033[33m")
 print ("\n\033[33m¡Pondremos a prueba tus conocimientos sobre historia del Peru!\033[33m")
 nom=input("\n\033[33mprimero dinos tu nombre: \033[33m")
 
-print("\n\033[33mmuy bien ",nom,"acontinuacion te presentaremos tres preguntas:\n\033[33m")
+print("\n\033[33mmuy bien ",nom,"acontinuacion te presentaremos cinco preguntas:\n\033[33m")
 print("\033[33mademas te calificaremos mediante puntuaciones con la que sabras tu nivel en historia del peru..\n\033[33m")
 puntaje=0
 print("\033[33mtu punaje iinicial es: ",puntaje," y si respondes correctamente las preguntas se te iran sumando 10 puntos mas.\n")
